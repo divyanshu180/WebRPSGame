@@ -7,6 +7,7 @@ Features:
 🔄 Dynamic Randomization: The computer's moves are randomized for each round, ensuring an unpredictable challenge.
 📊 Score Tracking: Keep track of wins, losses, and ties to gauge your gaming prowess.
 🌐 Responsive Design: Play seamlessly across devices with a visually appealing and responsive interface.
+
 How to Play:
 
 Click on your move: Rock, Paper, or Scissors.
